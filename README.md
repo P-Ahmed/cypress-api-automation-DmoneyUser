@@ -1,6 +1,6 @@
 # cypress-api-automation-DmoneyUser
 
- - ***It will be updated over time. Feel free to come and look when you get some time!!***
+ - ***This repo will be updated over time. Feel free to come and look when you get some time!!***
 
  ## Prerequisite
  - Node.js
